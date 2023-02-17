@@ -25,4 +25,7 @@ samples, guidance on mobile development, and a full API reference.
 * Create a flutter app
     * `flutter create flutter_example`
     * `cd flutter_example`
+* Edit `pubspec.yaml` 
+    * Set your app name (lowercase) 
+    * Set app description (free text)
 
